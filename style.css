@@ -252,3 +252,15 @@ img {
     align-items: center;
     margin-top: 10px;
 }
+
+.end {
+    gap: 5px;
+}
+
+.fa-graduation-cap {
+    color: #f9f7fa;
+}
+
+#span {
+    color: #f9f7fa;
+}
