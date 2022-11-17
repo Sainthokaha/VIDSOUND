@@ -100,6 +100,14 @@ a {
     border-radius: 8px;
 }
 
+.fa-square {
+    color: #f9f7fa;
+}
+
+.fa-chevron-down {
+    color: #f9f7fa;
+}
+
 img {
     height: 20px;
     border-radius: 50%;
@@ -136,6 +144,7 @@ img {
     align-items: center;
     padding: 10px;
     margin-left: 10px;
+    gap: 10px;
     border: 1px ridge #f9f7fa;
     border-radius: 8px;
     padding-left: 26px;
@@ -146,13 +155,13 @@ img {
     padding: 10px;
     margin-left: 10px;
     display: flex;
+    justify-content: center;
+    align-items: center;
     border: 1px solid #0328ff;
     border-top-left-radius: 8px;
     border-top-right-radius: 8px;
-    padding-left: 10px;
-    padding-right: 10px;
     width: 150px;
-    gap: 15px;
+    gap: 8px;
 }
 
 #main-icon {
@@ -202,6 +211,7 @@ img {
     padding: 5px;
     border-radius: 20%;
     background-color: #f263cc;
+    color: #f9f7fa
 }
 
 .fa-spotify {
@@ -214,6 +224,7 @@ img {
     padding: 5px;
     border-radius: 50%;
     background-color: #f71105;
+    color: #f9f7fa;
 }
 
 #text {
@@ -224,6 +235,7 @@ img {
     background-color: #50524f;
     margin-left: 10px;
     display: flex;
+    gap: 10px;
     align-items: center;
     justify-content: center;
     padding: 8px 15px;
